@@ -1,0 +1,3 @@
+[submodule "table-service"]
+	path = table-service
+	url = git@github.com:corey-recai/table-service.git
